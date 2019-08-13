@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72860" started-at="2019-08-13T17:06:57Z" finished-at="2019-08-13T17:08:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72860" started-at="2019-08-13T17:06:57Z" finished-at="2019-08-13T17:08:09Z">
+      <class name="com.tricentis.demowebshop.testng.testCase2">
+        <test-method status="PASS" signature="bc()[pri:0, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="bc" is-config="true" duration-ms="20294" started-at="2019-08-13T17:06:57Z" finished-at="2019-08-13T17:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="verifyHomeTitle()[pri:1, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="verifyHomeTitle" duration-ms="57" started-at="2019-08-13T17:07:17Z" finished-at="2019-08-13T17:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeTitle -->
+        <test-method status="PASS" signature="verifyRegisterText()[pri:2, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="verifyRegisterText" duration-ms="380" started-at="2019-08-13T17:07:17Z" finished-at="2019-08-13T17:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterText -->
+        <test-method status="PASS" signature="verifyLoginText()[pri:3, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="verifyLoginText" duration-ms="1501" started-at="2019-08-13T17:07:17Z" finished-at="2019-08-13T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginText -->
+        <test-method status="PASS" signature="verifyLoginTitle()[pri:4, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="verifyLoginTitle" duration-ms="18" started-at="2019-08-13T17:07:19Z" finished-at="2019-08-13T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTitle -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="loginPage" duration-ms="17605" started-at="2019-08-13T17:07:19Z" data-provider="dp" finished-at="2019-08-13T17:07:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcz449@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcz449@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="loginPage" duration-ms="15685" started-at="2019-08-13T17:07:37Z" data-provider="dp" finished-at="2019-08-13T17:07:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcz450@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcz450@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="loginPage" duration-ms="15658" started-at="2019-08-13T17:07:52Z" data-provider="dp" finished-at="2019-08-13T17:08:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcz448@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcz448@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:com.tricentis.demowebshop.testng.testCase2@457e2f02]" name="ac" is-config="true" duration-ms="1588" started-at="2019-08-13T17:08:08Z" finished-at="2019-08-13T17:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- com.tricentis.demowebshop.testng.testCase2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
